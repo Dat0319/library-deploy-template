@@ -1,6 +1,6 @@
 {
-  "name": "@mycv/mycv-id-generator-example",
-  "homepage": "https://sondn.github.io/@mycv/mycv-id-generator",
+  "name": "@dattd/js-custom-helpers-example",
+  "homepage": "https://github.com/Dat0319/library-deploy-template",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -9,7 +9,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "^1.1.4",
-    "@mycv/mycv-id-generator": "file:../"
+    "@dattd/js-custom-helpers": "file:../"
   },
   "scripts": {
     "start": "react-scripts start",

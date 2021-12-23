@@ -1,13 +1,13 @@
-# @mycv/mycv-id-generator
+# @dattd/js-custom-helpers
 
 >
 
-[![NPM](https://img.shields.io/npm/v/@mycv/mycv-id-generator.svg)](https://www.npmjs.com/package/@mycv/mycv-id-generator) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@dattd/js-custom-helpers.svg)](https://www.npmjs.com/package/@dattd/js-custom-helpers) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save @mycv/mycv-id-generator
+npm install --save @dattd/js-custom-helpers
 ```
 
 ## Usage
@@ -15,15 +15,15 @@ npm install --save @mycv/mycv-id-generator
 ```jsx
 import React, { Component } from "react";
 
-import MyComponent from "@mycv/mycv-id-generator";
+import HelpersComponent from "@dattd/js-custom-helpers";
 
 class Example extends Component {
   render() {
-    return <MyComponent />;
+    return <HelpersComponent />;
   }
 }
 ```
 
 ## License
 
-MIT © [sondn](https://www.npmjs.com/~ducbkvn19)
+MIT © [dattd](https://www.npmjs.com/~dattran0318)

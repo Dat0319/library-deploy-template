@@ -1,6 +1,6 @@
 {
-  "short_name": "@mycv/mycv-id-generator",
-  "name": "@mycv/mycv-id-generator",
+  "short_name": "@dattd/js-custom-helpers",
+  "name": "@dattd/js-custom-helpers",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",

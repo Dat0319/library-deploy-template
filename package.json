@@ -1,10 +1,24 @@
 {
   "name": "@dattd/js-custom-helpers",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "example publish lib to npm",
   "author": "dattd",
   "license": "MIT",
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dat0319/library-deploy-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dat0319/library-deploy-template/issues"
+  },
+  "homepage": "https://github.com/Dat0319/library-deploy-template#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react-js",
+    "example-deploy-npm"
+  ],
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",

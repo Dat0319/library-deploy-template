@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save @dattd/js-custom-helpers
+npm install --save @dattran0318/js-custom-helpers
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save @dattd/js-custom-helpers
 ```jsx
 import React, { Component } from "react";
 
-import HelpersComponent from "@dattd/js-custom-helpers";
+import HelpersComponent from "@dattran0318/js-custom-helpers";
 
 class Example extends Component {
   render() {

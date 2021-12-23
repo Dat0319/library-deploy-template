@@ -1,8 +1,8 @@
 {
-  "name": "@dattd/js-custom-helpers",
+  "name": "@dattran0318/js-custom-helpers",
   "version": "0.0.1",
   "description": "example publish lib to npm",
-  "author": "dattd",
+  "author": "dattran0318",
   "license": "MIT",
   "repository": {
     "type": "git",

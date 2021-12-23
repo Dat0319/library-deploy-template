@@ -1,15 +1,15 @@
 {
-  "name": "@dattd/js-custom-helpers-example",
+  "name": "@dattran0318/js-custom-helpers-example",
   "homepage": "https://github.com/Dat0319/library-deploy-template",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "@dattran0318/js-custom-helpers": "file:../",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "react-scripts": "^1.1.4",
-    "@dattd/js-custom-helpers": "file:../"
+    "react-scripts": "^1.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
